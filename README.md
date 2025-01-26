@@ -31,5 +31,5 @@ Two simple condition :
 3. can select user group wich can view the preview box
 4. can select forums wich the preview boxs displayed.
 5. can change scrap url every few days
-   ## More details : [Post Url Preview Box Plugin](https://community.mybb.com/thread-231035.html)
 
+## More details : [Post Url Preview Box Plugin](https://community.mybb.com/thread-231035.html)
